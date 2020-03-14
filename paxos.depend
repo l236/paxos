@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1582528332 source:f:\codeblocks\paxos\main.cpp
+	<queue>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<list>
+	<vector>
+	<sstream>
+	<time.h>
+
